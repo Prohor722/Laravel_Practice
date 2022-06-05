@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello, {{$name}}</h1>
-    <a href="/">Home</a>
+<x-header componentName="User" />
+<h1>User Page</h1>
 </body>
 </html>
